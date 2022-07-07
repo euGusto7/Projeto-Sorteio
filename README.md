@@ -1,2 +1,2 @@
 # Projeto-Sorteio
-Projeto bastante simples de sorteio
+Projeto bastante simples, sistema de sorteio entre 1 e 100
